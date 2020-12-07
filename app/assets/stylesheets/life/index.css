@@ -1,0 +1,18 @@
+.life-tool-main {
+  height: 100vh;
+  width: 100vw;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.life-tool-main .side-bar {
+  background: green;
+  width: 20%;
+}
+
+.life-tool-main .main-contents {
+  background: lightblue;
+  width: 80%;
+}
+/*# sourceMappingURL=index.css.map */
